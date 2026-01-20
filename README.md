@@ -113,8 +113,8 @@ Results:
 
 ## Academic Context
 
-**Course**: Data Ethics / Algorithmic Fairness  
-**Institution**: Rutgers University  
+**Course**: Data In Context
+**Institution**: Rutgers University New Brunswick
 **Completion Date**: May 2024  
 **Format**: Written report with visual analysis
 
